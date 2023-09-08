@@ -1,3 +1,7 @@
+package net.realkhk;
+
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); /* wth */
@@ -8,6 +12,7 @@ public class Main {
         System.out.println(x + " " + i);
         String k = x + " " + "bruh";
         System.out.println(k);
+        System.out.println(k + x + " ");
         }
 
 
